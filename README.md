@@ -1,2 +1,2 @@
-# Static-interactivr-resume
+# Static-interactive-resume
  
